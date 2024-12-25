@@ -1,0 +1,1 @@
+A revolutionary decentralized voting system powered by Fully Homomorphic Encryption (FHE) that sets new standards for electoral privacy and transparency. The protocol enables voters to participate in blockchain-based elections with mathematical guarantees of vote secrecy, while maintaining complete verifiability of results.
